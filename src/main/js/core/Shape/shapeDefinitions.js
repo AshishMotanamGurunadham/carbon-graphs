@@ -86,8 +86,8 @@ export const TEAR_ALT = {
  * @type {{path: {d: string}, options: {x: number, y: number, scale: number}}}
  */
 export const DIAMOND = {
-    path: { d: "M24 0l14 24-14 24-14-24L24 0z" },
-    options: { x: -8, y: -8, scale: 0.25 }
+    path: { d: "M24 0l12 24-12 24-12-24L24 0z" },
+    options: { x: -8, y: -8, scale: 0.32 }
 };
 /**
  * The S_0009_triangle.svg SVG file as an object.
